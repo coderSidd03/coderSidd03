@@ -1,4 +1,7 @@
 ![logo](https://github.com/coderSidd03/coderSidd03/blob/main/github%20banner.png.gif)
+
+![logo](https://github.com/coderSidd03/coderSidd03/blob/main/welcome.gif) 
+
 <h1 align="center">Hi <img alt="img" width="30" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif">, I'm Soumyadeep Chakraborty</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="coding" width="400" src ="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611a7f2c3995928447c94458d6f6b13d36edba5a6c1&rid=giphy.gif&ct=g">

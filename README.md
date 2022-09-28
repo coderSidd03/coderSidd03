@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Node.js](https://github.com/coderSidd03?tab=repositories)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **backend developmet technologies**
 
 - 💬 Ask me about **Node.js, JavaScript, MongoDb, Java**
 

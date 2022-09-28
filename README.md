@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/coderSidd03/coderSidd03/blob/main/welcome.gif) 
 
-<h1 align="center">Hi <img alt="img" width="30" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif">, I'm Soumyadeep Chakraborty</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Soumyadeep Chakraborty</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="coding" width="400" src ="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611a7f2c3995928447c94458d6f6b13d36edba5a6c1&rid=giphy.gif&ct=g">
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/isoumya_03" target="blank"><img src="https://img.shields.io/twitter/follow/isoumya_03?logo=twitter&style=for-the-badge" alt="isoumya_03" /></a> </p>
 
-- 🔭 I’m currently working on [several backend projects](https://github.com/coderSidd03?tab=repositories)
+- 🔭 I’m currently working on [Node.js](https://github.com/coderSidd03?tab=repositories)
 
 - 🌱 I’m currently learning **Node.js**
 
